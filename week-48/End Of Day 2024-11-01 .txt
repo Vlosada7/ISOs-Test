@@ -1,0 +1,28 @@
+Subject: End Of Day 2024-11-01 
+To: carlos.torrecillas@southworks.com
+Sent At: 2024-11-01T13:23:44Z
+
+Hello all, 
+Backlog Status 
+[Done] [OpenAIPOC - 92166] New endpoint and functionality to get a full list of players for a given team 
+[Done] [OpenAIPOC - 92169] Create a setup of data in MongoDb so that we have stored all the information about teams 
+[Done] [OpenAIPOC - 92418] Optimize CosmosDB costs 
+[Done] [OpenAIPOC - 92913] Implement CosmosDB client to handle DB operations 
+[Done] [OpenAIPOC - 93230] Set up workload identity 
+[Done] [OpenAIPOC - 93339] Implement IoC in API 
+[Done] [OpenAIPOC - 93300] Change API input lineup 
+[Done] [OpenAIPOC - 93341] Clean up collection creation from Terraform and delete these from MongoDB 
+[In code review] [OpenAIPOC - 92912] Create a match-winner component to review the results 
+[In code review] [OpenAIPOC - 93301] Add winner pricing to DB 
+[In code review] [OpenAIPOC - 93343] Create endpoints to add new teams and matches to MongoDB 
+[In code review] [OpenAI POC - 93344] Store and retrieve match results 
+[In code review] [OpenAIPOC - 93445] Refactor UI to use new endpoints 
+[Pending] [OpenAIPOC - 92911] Create a new Calculate button in the home component for getting the AI results 
+More Details    
+Today, we added functionality in the UI to allow users to add teams and competitions they would like to query, introducing a new button on the main page that redirects to a dedicated insertion page. This new feature is fully integrated with the API, streamlining the process for users to submit and manage their entries directly from the interface. 
+                                                        Button to add competition and teams 
+Add competition 
+Add Team 
+Additionally, we updated the API controllers to prevent duplicate entries in the database, whether through direct endpoint submissions or from our static JSON files containing predefined records. This ensures data integrity by avoiding redundant records and enhances the overall efficiency of our data management approach. 
+Thanks,  
+You | SOUTHWORKS

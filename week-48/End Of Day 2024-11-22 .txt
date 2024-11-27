@@ -1,0 +1,12 @@
+Subject: End Of Day 2024-11-22 
+To: carlos.torrecillas@southworks.com
+Sent At: 2024-11-22T12:46:14Z
+
+Hello all, 
+Backlog Status 
+[In Progress] Research on new project idea 
+More Details    
+Today, we initiated the groundwork for developing a Microsoft Teams plugin designed to automate email filtering and integration with GitHub repositories. The primary objective of this plugin is to parse team emails with specific subjects, extract relevant content, and push structured data to a designated GitHub repository. This process involves handling email parsing, applying filters for subject relevance, and ensuring seamless integration with the repository for future use. 
+Additionally, this plugin will streamline communication by automating updates and providing easy access to filtered information directly within Teams. By reducing manual tasks and centralizing content management, the solution will improve operational workflows, enhance collaboration, and ensure that essential updates are consistently shared with the team. As part of this effort, we have also established a roadmap in Azure Boards, listing key User Stories and initial development tasks for discussion in our next meeting.  
+Thanks,  
+Victor | SOUTHWORKS
