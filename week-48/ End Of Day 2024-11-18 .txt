@@ -1,0 +1,13 @@
+Subject:  End Of Day 2024-11-18 
+To: carlos.torrecillas@southworks.com
+Sent At: 2024-11-18T17:04:41Z
+
+Hello all, 
+Backlog Status 
+[Done] [OpenAIPOC - 93960] Implement input to betting margin 
+More Details    
+Today, we implemented a new input feature to allow users to dynamically set the betting margin for each match, replacing the previously hardcoded value. 
+This enhancement provides greater flexibility, enabling the system to adjust predictions based on the specific characteristics of different matches. By allowing users to fine-tune the margin, we can achieve more accurate results that better align with real-world betting conditions. 
+Finally, we begin with the construction of the system architecture diagram. First detailing the different Azure resources within each subnet, the automation account and the description of the aks. 
+Thanks,  
+Victor | SOUTHWORKS
